@@ -17,7 +17,8 @@ y = y / 2
 
 adicao = x + y
 subtracao = x - y
-multiplicacao = x * y
+multiplicacao = x * y  #retorno errado 
+'''todo o resto errado corrigir'''
 divisao_int = x // y
 divisao_frac = x / y
 divisao_resto = x % y

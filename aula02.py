@@ -1,6 +1,6 @@
 #Exercício 01 - fazer um print com nome e curso em menu
 
-print("""##################################################\n        NOME EM MAIUSCULO \n              REDES DE COMPUTADORES\n ##################################################""")
+print("#"*40, "\n \t",        "JULHA LEITHOLD",  "\n" "\t" "\t",    " REDES DE COMPUTADORES", "\n" ,"#"*40)
 
 
 # Exercício 2 - Faça um programa e declare as variáves x e y. Atribua valores numéricos a essas duas variáveis. Depois faça o seguinte:

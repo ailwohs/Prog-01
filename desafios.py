@@ -6,10 +6,6 @@ prod_com_desconto = produto - desconto
 print("O valor de desconto é R$", desconto,  "\n"  "E o valor final do produto com desconto é R$", prod_com_desconto)'''
 
 
-
-
-
 Nome = "julia"
 Sobrenome = "leithold"
-
-print("Meu nome é:", Nome, "e meu sobrenome é:", Sobrenome)
+print(Nome , Sobrenome)

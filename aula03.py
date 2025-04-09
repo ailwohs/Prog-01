@@ -18,17 +18,17 @@ print("A área total é de ", area)'''
 '''idade = int(input("Digite sua idade: \n"))
 ano = 2025
 ano_nascimento = ano - idade
-print("Sua idade é : ", idade, "\t Seu ano de nascimento é:", ano_nascimento)''']
+print("Sua idade é : ", idade, "\t Seu ano de nascimento é:", ano_nascimento)'''
 
 #4 Escreva um programa que peça ao usuário a quantidade de dias, horas, minutos e segundos.
 #Calcule o total em segundos.
-dias = int(input("Digite os dias \n"))
+'''dias = int(input("Digite os dias \n"))
 horas = int(input("Digite as horas \n"))
 minutos = int(input("Digite os minutos \n"))
 segundos = int(input("Digite os segundos \n"))
 
 total = dias*86400 + horas*3600 + minutos*60 + segundos
-print("Total em segundos é: \n", total)
+print("Total em segundos é: \n", total)'''
 
 
 # 5 - Solicite o preço de uma mercadoria e o percentual de desconto.
@@ -38,6 +38,9 @@ print("Total em segundos é: \n", total)
 # ao usuário distância a percorrer e a velocidade média esperada para a viagem.
 
 #7 - Converta uma temperatura digitada pelo usuário de Celsius para Fahrenheit. F = (9*C)/5 + 32.
+temperatura=int(input("Digite a temperatura: \n"))
+fahrenheit=(f*9/5)+32
+print(fahrenheit)
 
 #8 - Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário,
 #assim como a quantidade de dias pelos quais o carro foi alugado.

@@ -3,4 +3,6 @@
 # Prog-02 aula 02 02/03
 
 
-# Prog-03 aula 03
+# Prog-03 aula 03 - cancelada exercicios na pasta 03
+
+

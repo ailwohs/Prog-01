@@ -5,7 +5,7 @@ imprimir o valor da venda (conforme as taxas do enunciado).'''
 
 compra=float(input("valor da compra do produto? \n"))
 
-if compra < 20:
+if compra <= 20:
     lucro = compra * 0.45 
 else:
     lucro = compra * 0.30

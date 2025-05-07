@@ -9,10 +9,18 @@ nota2=float(input("Digite a segunda nota: \n"))
 nota3=float(input("Digite a terceira nota: \n"))
 media= (nota1 + nota2 + nota3) /3
 
+'''
 if media >=7:
     print("ALUNO APROVADO")
 else:
     if media >=5:
         print("ALUNO EM RECUPERAÇÃO")    
     else:
-        print("ALUNO REPROVADO")    
+        print("ALUNO REPROVADO")    '''
+        
+if media >=7:
+    print("ALUNO APROVADO")
+elif media >=5:
+        print("ALUNO EM RECUPERAÇÃO")    
+else:
+        print("ALUNO REPROVADO")            

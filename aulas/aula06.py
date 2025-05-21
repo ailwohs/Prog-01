@@ -24,22 +24,19 @@ num=int(input("Digite um número \n"))
 for i in range(num+1):
     print(i)
 '''
-
 #3 - Faça um algoritmo onde o usuário deverá digitar um número. O programa deverá listar todos os números pares até o número digitado pelo usuário.
-
 '''
 num=int(input("Digite um número usuário \n"))
 for i in range(num + 1):
     if i % 2 == 0:
         print(i, "é par")
         
-        '''
+'''        
 
 # 4 - Faça um algoritmo que liste todos os números ímpares até 1000. Utilize um laço de repetição que faça incrementos de 3 em 3.
-
 '''
-for i in range (1, 1001, 3):
-    if i % 2 != 0:
+for i in range (0, 1001, 3):
+    if i % 2 == 1:
      print(i)
 #OBS = NÃO TA CERTA - ARRUMAR OUTRA HORA
 '''
@@ -55,3 +52,9 @@ for i in range(num1):
     resultado += num2
     
 print("O resultado é: \n", resultado)
+
+#imprimir de 100 ate o 0 
+'''
+for i in range(100, -1, -1):
+    print(i)
+'''
